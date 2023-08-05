@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    // 정수 N이 주어졌을때 소인수분해하는 프로그램
     int n;
     cin >> n;
 
